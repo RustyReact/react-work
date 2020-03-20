@@ -1,0 +1,212 @@
+.branch_header {
+    font-size: 16px;
+}
+
+.btn_no {
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-style: solid;
+    
+}
+
+.btn_no:hover, .btn_yes:hover, .btn_simple:hover {
+    background: black;
+    color:white;
+}
+
+.btn_yes {
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    border-style: solid;
+}
+
+.btn_agent{
+    border-radius: 2rem;
+    border-style: solid;
+    border-color: black;
+}
+
+.bt_black {
+    border-radius: 2rem;
+    border-style: solid;
+    border-color: black;
+    background: black;
+}
+
+th {
+    background: gray;
+    color: white;
+    vertical-align: middle;
+}
+
+.table th,.table td {
+    vertical-align: middle;
+    text-align: center;
+}
+.span_ivr {
+    background: black;
+    color: white;
+    border-radius: 2rem;
+    border-style: solid;
+}
+
+.modal_header {
+    background: black;
+    color: white;
+}
+
+.phone_num {
+    font-size: 16px;
+}
+
+.btn_modal_black {
+    width:150px;
+    background: black;
+    color: white;
+}
+
+.modal_button_group {
+    border-radius: 2px;
+    border-style: solid;
+    background: rgb(202, 202, 202);
+}
+
+.btn_modal_details {
+    background: black;
+    color: white;
+}
+
+.input_text {
+    border:none;
+}
+
+.btn_modal_black_detail:hover {
+    background: black;
+    color: white;
+}
+
+.modal_label {
+    color:black;
+    font-Style: bold;
+}
+
+.flex-row {
+    display: flex;
+}
+
+.span_circle {
+    border: 1px solid gray;
+    border-radius: 3rem;
+    background: gray;
+    color:white;
+}
+
+.font_large {
+    font-size: 16px;
+}
+
+.font_small {
+    font-size: 12px;
+}
+
+.btn_round {
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.gray_back {
+    background: rgb(177, 177, 177);
+    border: 1px solid rgb(177, 177, 177);
+    border-radius: 5px;
+}
+
+.font-black {
+    color: black;
+}
+
+.btn_save {
+    border-radius: 1rem;
+    border-style: solid;
+    background: black;
+}
+
+.btn_cancel {
+    border-radius: 1rem;
+    border-style: solid;
+    background: gray;
+}
+
+.btn_large_black {
+    border-radius: 5rem;
+    border-style: solid;
+    background: black;
+    color: white;
+}
+
+.bt_gray {
+    border-radius: 3rem;
+    border-style: solid;
+    border-color: gray;
+    background: gray;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background: black;
+}
+
+.btn_black_round {
+    background: black;
+    border-radius: 3rem;
+    border-style: solid;
+    color: white;
+}
+
+.btn_miss {
+    border-radius: 3rem;
+    border-style: solid;
+    color: black;
+}
+
+.font_black {
+    color: black;
+}
+
+.gray_box {
+    background: rgb(161, 161, 161);
+    border: 1px solid rgb(161, 161, 161);
+    border-radius: 5px;
+    height: 400px;
+    color:white;
+}
+
+.gray_back_label {
+    background: gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.second, .third {
+     display: none;
+}
+
+.btn_message {
+    width: 150px;
+    border-style: solid;
+    border-radius: 2rem;
+    // text-align: right;
+}
+
+.btn_dismiss {
+    color: white;
+    background: black;
+    border-style: solid;
+    border-radius: 3rem;
+    border-color: black;
+}
+
+.popover {
+    max-width: 400px !important;
+}
+
+

@@ -1,0 +1,175 @@
+
+.manually {
+    
+    border:solid;
+    border-Radius:5rem;
+    background:gray;
+
+}
+
+.csv {
+    
+    border:solid;
+    border-Radius:5rem;
+    background:gray;
+
+}
+.source {
+    border:solid;
+    border-Radius:5rem;
+    background:gray;
+}
+
+.email_setting {
+    font-size: 16px;
+}
+
+label {
+    font-size: 14px;
+}
+
+.adding_date_text {
+    font-size: 14px;
+}
+
+.adding_date {
+    font-size: 14px;
+}
+
+.right-header-text {
+    font-size: 16px;
+}
+
+.template01 {
+    border:solid;
+    border-Radius:5rem;
+    background:black;
+    
+}
+
+.template01_selected {
+    border:solid;
+    border-Radius:5rem;
+    background:black;
+    h5 {
+        
+        color:white;
+     }
+     h6 {
+         background:gray;
+         border-Color:black;
+         border:solid;
+         border-Radius:5rem;
+         span {
+             color:white;
+         }
+     }
+}
+.template02 {
+    border: solid;
+    border-Radius:5rem;
+}
+
+.custom {
+    border: solid;
+    border-Radius:5rem;
+}
+
+.custom_selected {
+    border:solid;
+    border-Radius:5rem;
+    background:black;
+    h5 {
+        
+        color:white;
+     }
+     h6 {
+         background:gray;
+         border-Color:black;
+         border:solid;
+         border-Radius:5rem;
+         span {
+             color:white;
+         }
+     }
+}
+.left_back {
+    background:#e4e4e4;
+}
+
+.creation_header, .text_creation_header {
+    font-size:16px;
+}
+
+.btn_email_template {
+    border:1px solid black;
+    color: black;
+    
+}
+
+.btn_email_template:hover, .btn_text_temp:hover, .btn_script_temp:hover {
+    background: black;
+    color: white;
+}
+
+.btn_script_temp {
+    background:white;
+    border-style:solid;
+    border-color:black;
+}
+
+.btn_text_temp {
+    background:white;
+    border-style:solid;
+    border-color:black;
+}
+
+.bt_gray {
+    border-Style:solid;
+    border-Color:gray;
+    border-Radius:2.5rem;
+    background:gray;
+}
+.btn_add {
+    // border-Style:solid;
+    // border-Radius:2rem;
+    // background:black;
+     
+}
+
+.btn_tab01, .btn_tab02 {
+    border:1px solid black;
+    font-Size: 14px;
+}
+
+.btn_tab01:hover, .btn_tab02:hover {
+    background:black;
+    color:white;
+    font-Size: 14px;
+}
+
+thead {
+    background: gray;
+    color:white;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+}
+
+.creation_round {
+    border-right-style:solid;
+}
+
+.modal_header {
+    border-bottom-style:double;
+    border-bottom-color:#dee2e6;
+}
+
+.btn_modal_add {
+    background: black;
+}
+
+.import_text {
+    font-size: 16px;
+}
